@@ -6,7 +6,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JMitchell2417/Configuring-On-Premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b>Packet Tracer Labs</b>
-  - [Packet Tracer: Small Business Network (VLSM + Static Routing](https://github.com/JMitchell2417/Packet-Tracer-Lab-Small-Business-Network-VLSM-Static-Routing-)
+  - [Packet Tracer: Small Business Network (VLSM + Static Routing](https://github.com/JMitchell2417/Packet-Tracer-Lab-Small-Business-Network-VLSM-Static-Routing-))
 
 <h2>Software Engineering Projects</h2>
 
