@@ -14,4 +14,4 @@
 
 [<img align="left" alt="John | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: [www.linkedin.com/in/johnmitchelldiaz](https://www.linkedin.com/in/johnmitchelldiaz/)
+[linkedin]: https://www.linkedin.com/in/johnmitchelldiaz/
