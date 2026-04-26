@@ -1,4 +1,4 @@
-<h1>Hi, I'm John, an <a href="https://www.linkedin.com/in/johnmitchelldiaz/">Portfolio</a></h1>
+<h1>Hi, I'm John, here's my tech <a href="https://www.linkedin.com/in/johnmitchelldiaz/">Portfolio</a></h1>
 
 <h2>Information Technology/Network Projects:</h2>
 
