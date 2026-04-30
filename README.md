@@ -15,7 +15,7 @@
 
 - CompTIA Network+ (N10-009)
 - CompTIA Security+ (SY0-701)
-- CourseCareeers Information Technology (CoureCareers)
+- CourseCareeers Information Technology (CourseCareers)
 
 <h2>Connect with me:</h2>
 
