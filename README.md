@@ -4,7 +4,8 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/JMitchell2417/Configuring-On-Premises-Active-Directory-within-Azure-VMs)
-- <b>Packet Tracer Labs</b>
+- <b>Information Technology Labs</b>
+  - [Network-Troubleshooting-Lab](https://github.com/JMitchell2417/Network-Troubleshooting-Lab)
   - [Packet Tracer: Small Business Network (VLSM + Static Routing)](https://github.com/JMitchell2417/Packet-Tracer-Lab-Small-Business-Network-VLSM-Static-Routing-)
 
 <h2>Software Engineering Projects</h2>
