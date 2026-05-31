@@ -8,6 +8,11 @@
   - [Network-Troubleshooting-Lab](https://github.com/JMitchell2417/Network-Troubleshooting-Lab)
   - [Packet Tracer: Small Business Network (VLSM + Static Routing)](https://github.com/JMitchell2417/Packet-Tracer-Lab-Small-Business-Network-VLSM-Static-Routing-)
 
+<h2>Threat Hunting and Security Operations Projects:</h2>
+
+ - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JMitchell2417/Configuring-On-Premises-Active-Directory-within-Azure-VMs)
+    - Investigated suspicious activity using endpoint telemetry and log analysis to identify unauthorized Tor usage.
+ 
 <h2>Software Engineering Projects</h2>
 
 - [Spots: Interactive, responsive social media web application](https://github.com/JMitchell2417/se_project_spots)
