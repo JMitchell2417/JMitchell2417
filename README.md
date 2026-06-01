@@ -11,7 +11,7 @@
 <h2>Threat Hunting and Security Operations Projects:</h2>
 
  - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JMitchell2417/threat-hunting-scenario-tor)
-    - Investigated suspicious activity using endpoint telemetry and log analysis to identify unauthorized Tor usage.
+    - Simulated a real-world threat hunt to detect, investigate, and document unauthorized TOR browser activity using Microsoft Defender and Kusto Query   Language (KQL).
  
 <h2>Software Engineering Projects</h2>
 
