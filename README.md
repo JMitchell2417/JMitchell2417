@@ -10,7 +10,7 @@
 
 <h2>Threat Hunting and Security Operations Projects:</h2>
 
- - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JMitchell2417/Configuring-On-Premises-Active-Directory-within-Azure-VMs)
+ - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JMitchell2417/threat-hunting-scenario-tor)
     - Investigated suspicious activity using endpoint telemetry and log analysis to identify unauthorized Tor usage.
  
 <h2>Software Engineering Projects</h2>
