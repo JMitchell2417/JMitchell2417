@@ -16,7 +16,7 @@
 <h2>Vulnerability Management Projects:</h2>
 
  - [Windows 11 STIG Automated Remediations Scripts](https://github.com/JMitchell2417/windows-11-stig-remediation-scripts)
-    - PowerShell-based remediation scripts for implementing and automating Windows 11 DISA STIG security hardening controls in enterprise environments.
+   - PowerShell-based Windows 11 DISA STIG remediation scripts for automating enterprise security hardening, and compliance enforcement.
  
 <h2>Software Engineering Projects</h2>
 
