@@ -8,13 +8,6 @@
   - [Network-Troubleshooting-Lab](https://github.com/JMitchell2417/Network-Troubleshooting-Lab)
   - [Packet Tracer: Small Business Network (VLSM + Static Routing)](https://github.com/JMitchell2417/Packet-Tracer-Lab-Small-Business-Network-VLSM-Static-Routing-)
 
-<h2>Threat Hunting and Security Operations Projects:</h2>
-
- - [Threat Hunting Scenario (Tor Browser Usage)](https://github.com/JMitchell2417/threat-hunting-scenario-tor)
-    - Simulated a real-world threat hunt to detect, investigate, and document unauthorized TOR browser activity using Microsoft Defender and Kusto Query   Language (KQL).
-  
-- [Threat Hunting Scenario (Microsoft 365 Hijacking BEC and Data Theft)](https://github.com/JMitchell2417/Microsoft-365-Threat-Hunt-Session-Hijacking-BEC-and-Data-Theft)
-    - Investigated a Microsoft 365 Business Email Compromise (BEC) by correlating identity, mailbox, Graph API, and Power Automate activity to uncover persistence, payment fraud, and targeted data theft.
   
 <h2>Vulnerability Management Projects:</h2>
 
